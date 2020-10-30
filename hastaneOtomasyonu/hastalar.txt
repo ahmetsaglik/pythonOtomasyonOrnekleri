@@ -1,0 +1,2 @@
+{'randevuNo': 799, 'ad': 'ahmet', 'soyad': 'saðlýk', 'doktor': '2100', 'randevuTarihi': '22-06-2020'}
+{'randevuNo': 851, 'ad': 'asd', 'soyad': 'sad', 'doktor': 'asd', 'randevuTarihi': 'sad'}

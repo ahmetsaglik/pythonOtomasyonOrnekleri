@@ -1,0 +1,1 @@
+{'doktorID': 2100, 'ad': 'asdad', 'soyad': 'asdasd', 'bolum': 'asdas', 'maas': '5200'}
