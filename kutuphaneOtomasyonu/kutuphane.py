@@ -1,5 +1,3 @@
-## Muhammet Furkan Şahin 17010011018
-
 #-*-coding:utf-8-*-
 
 import csv
